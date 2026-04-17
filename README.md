@@ -6,10 +6,9 @@ Ecommerce Analytics Project is a comprehensive database and analytics system des
 * A set of SQL queries for analyzing sales trends, customer behavior, product performance, and logistics operations
 * Support for data-driven decision making through insights into revenue trends, customer segmentation, and operational efficiency
 
-### Database Schema
+## Database Schema
 
 The database schema consists of the following tables:
-
 *   **customers**: stores information about customers, including customer ID, name, city, state, signup date, and segment.
 *   **products**: stores information about products, including product ID, name, category, subcategory, and price.
 *   **orders**: stores information about orders, including order ID, customer ID, order date, order status, channel, and warehouse ID.
